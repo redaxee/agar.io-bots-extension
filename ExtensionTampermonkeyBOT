@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         AgarUnlimited
+// @name         ExhaleGlory
 // @version      3.0.0
-// @description  AgarUnlimited Revive by Neon
-// @author       Neon - Sizrex - MrSonicMaster - NuclearC - StrikerJS
+// @description  [EG] ExhaleGLory
+// @author       Red Axee
 // @match        *://agar.io/*
 // @grant        none
 // @run-at       document-start
