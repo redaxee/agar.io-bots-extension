@@ -1,0 +1,10 @@
+// ==UserScript==
+// @name         AgarUnlimited
+// @version      3.0.0
+// @description  AgarUnlimited Revive by Neon
+// @author       Neon - Sizrex - MrSonicMaster - NuclearC - StrikerJS
+// @match        *://agar.io/*
+// @grant        none
+// @run-at       document-start
+// @require      https://raw.githubusercontent.com/redaxee/agar.io-bots-extension/master/eg.js
+// ==/UserScript==
